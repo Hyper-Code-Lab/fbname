@@ -1,0 +1,23 @@
+.container{
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+  height:35px;
+  width: 200px;
+  border:3px solid #1876DB;
+}
+a{
+  height: 30px;
+  width: 70px;
+  text-decoration:none;
+  border: 3px solid #1876DB;
+
+}
+h1{
+  color: #1876DB;
+}
